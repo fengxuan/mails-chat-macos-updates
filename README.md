@@ -14,6 +14,14 @@ It is intentionally separate from the private app source repository. The private
 
 Enable GitHub Pages from the `main` branch root.
 
+This repository includes a `CNAME` file for:
+
+```text
+downloads.canyin.uk
+```
+
+Point that DNS name at GitHub Pages if you want existing installed clients to keep using the same Sparkle feed URL.
+
 Default Pages base URL:
 
 ```text
