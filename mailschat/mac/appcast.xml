@@ -6,6 +6,18 @@
         <description>Public Sparkle feed for MailsChat macOS.</description>
         <language>en</language>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Wed, 10 Jun 2026 08:27:16 +0000</pubDate>
+            <link>https://github.com/fengxuan/mails-chat-ios/releases/tag/macos-v0.1.7</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-ios/releases/tag/macos-v0.1.7</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.6...macos-v0.1.7
+]]></description>
+            <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.7.zip" length="3728618" type="application/octet-stream" sparkle:edSignature="6dvHbjSVDyiiDSpQk4Z0ohCPTiSQiJNGQ3T578OX4RqS3AI3fwIemkiGDnUZxka7t1tjDiQIdQRY9L8pbY0TBA=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Wed, 10 Jun 2026 06:39:18 +0000</pubDate>
             <link>https://github.com/fengxuan/mails-chat-ios/releases/tag/macos-v0.1.6</link>
