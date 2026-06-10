@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MailsChat macOS Versions</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f7f4ec;
+        --panel: rgba(255, 255, 255, 0.82);
+        --fg: #18212b;
+        --muted: #56606b;
+        --accent: #a44e2e;
+        --border: rgba(24, 33, 43, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Iowan Old Style", "Palatino Linotype", serif;
+        color: var(--fg);
+        background:
+          radial-gradient(circle at top, #fffdf8 0%, var(--bg) 54%),
+          linear-gradient(180deg, rgba(255,255,255,0.55), rgba(247,244,236,0.95));
+      }
+
+      main {
+        max-width: 880px;
+        margin: 0 auto;
+        padding: 64px 24px 88px;
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: clamp(2.2rem, 5vw, 3.8rem);
+        line-height: 1.02;
+      }
+
+      p {
+        margin: 0;
+        font-size: 1.05rem;
+        line-height: 1.72;
+        color: var(--muted);
+      }
+
+      .hero {
+        margin-bottom: 28px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 16px;
+        margin-top: 28px;
+      }
+
+      .card {
+        padding: 18px 18px 16px;
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        background: var(--panel);
+        backdrop-filter: blur(10px);
+      }
+
+      .card h2 {
+        margin: 0 0 8px;
+        font-size: 1.1rem;
+      }
+
+      .card p {
+        font-size: 0.98rem;
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      ul {
+        padding-left: 18px;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <h1>MailsChat macOS Versions</h1>
+        <p>This public page is the safe destination for Sparkle version-history links. It exposes only published update artifacts and feed metadata, not the private source repository.</p>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h2>Version Feed</h2>
+          <p><a href="./appcast.xml">Open appcast.xml</a></p>
+        </article>
+        <article class="card">
+          <h2>Public Artifact Repo</h2>
+          <p><a href="https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac">Browse published files on GitHub</a></p>
+        </article>
+        <article class="card">
+          <h2>Update Host</h2>
+          <p><a href="https://downloads.canyin.uk/mailschat/mac/">Open the public update path</a></p>
+        </article>
+      </section>
+
+      <section>
+        <ul>
+          <li>Published ZIP archives appear in this directory after each release workflow succeeds.</li>
+          <li>The appcast is signed by Sparkle and consumed by the macOS client.</li>
+          <li>If you expected a newer version here, the private build workflow likely has not finished yet.</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>
