@@ -6,6 +6,21 @@
         <description>Public Sparkle feed for MailsChat macOS.</description>
         <language>en</language>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Wed, 10 Jun 2026 09:03:13 +0000</pubDate>
+            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.7...macos-v0.1.8
+]]></description>
+            <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.8.zip" length="3728568" type="application/octet-stream" sparkle:edSignature="cjRD4UrP3xwX3tc1ZeNokRN0IF25zdrBnYRx6v60L30juZ00lp0jtpWxhs5hg4cyDkXIW879R4InApM/Sw7MDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac8-7.delta" sparkle:deltaFrom="7" length="13190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aX00k/XNhd2Q+yU5dZCcjMTqrbG+jw8gweQTf3liWsFY8P99S0uqNCtF67KpIM46g+H91VvtQUVfxEFo4zl7AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Wed, 10 Jun 2026 08:27:16 +0000</pubDate>
             <link>https://github.com/fengxuan/mails-chat-ios/releases/tag/macos-v0.1.7</link>
