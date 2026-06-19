@@ -6,6 +6,22 @@
         <description>Public Sparkle feed for MailsChat macOS.</description>
         <language>en</language>
         <item>
+            <title>0.1.10</title>
+            <pubDate>Fri, 19 Jun 2026 00:48:27 +0000</pubDate>
+            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.9...macos-v0.1.10
+]]></description>
+            <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.10.zip" length="9380199" type="application/octet-stream" sparkle:edSignature="62p1ZGwmXE5BToZHPCSEsWECHFQlj61EHHjnwTcCwFukB6fgc3Lj0VXfw6KluDHwb3F4nEdP5bcJeCDPOO3oBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac13-9.delta" sparkle:deltaFrom="9" length="879666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WqfpcXISIVbfbtt0EhHIY8tgrmsArf+twld4DxWKKVDEQsWzSLup5BC2tEW0+MQ5UaN7u1XU9C+mDHSOxUvGCw=="/>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac13-7.delta" sparkle:deltaFrom="7" length="5587306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rZXOizuYLNuN+vmebYkqtcWcxAhbe/KGbqrm+TWn/y59Va3whSVRpUb6C/yDlHoZk6/49FL3Ct/NWSgd1If0Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.9</title>
             <pubDate>Wed, 17 Jun 2026 15:43:49 +0000</pubDate>
             <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
