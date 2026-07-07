@@ -16,13 +16,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.12...macos-v1.0.17
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.17.zip" length="10991390" type="application/octet-stream" sparkle:edSignature="NiACujPS24Ryk0vg6ztEuLZD8rdj5D9sa+bORck7wRtwcqmFyGTQ15ctxgQgBvLW/luxOx8lx6iOqIE1nn6IAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-32.delta" sparkle:deltaFrom="32" length="802758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2rV3tOb8pHNgcPiwPh4+cVZGXfykSZiR9RMVX57cbCrqzpuYAFVhhOS4+wWuPU3ylgr4MdtSVNQWr6hiHFOIDQ=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-18.delta" sparkle:deltaFrom="18" length="3706510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="20KbXE8aPMcAT5eeLCuvbwmIi5TIm4xnzgkfxoE6NScx/pGHW7XNvbCocmrRwYD7v+eMsixKTIMJR0jyScMyCg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-17.delta" sparkle:deltaFrom="17" length="3790410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jj7ySRVOadmcTHAZO1jFOBFgFN32aIMegaHlUvXOIuUOmjdmns7PkLUBMDL304j2Lb7gBevG1GDozahTcd37Bg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-16.delta" sparkle:deltaFrom="16" length="3864082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+pdVP2ISNPLCnmaWq7kicgEgY6xO8d59cmShElnZVPhJWfsnMFTdTuHC2OsRm9fHUQpqmZt1MILN1jwKPFwXDA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-15.delta" sparkle:deltaFrom="15" length="3778802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9ZePdvXj+UyiUzgigtBZWwEb72Qn5sMVrdka+qQbYmgTSNp6gxLKJa2cJpsoSu1HA9ZMFjD5TXy+0lEEfD4tCQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.12</title>
@@ -35,13 +28,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.2...macos-v1.0.12
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.12.zip" length="10910801" type="application/octet-stream" sparkle:edSignature="aMA701WVxWNEskzGJBGpiUBh44DxvOK9oiH0Bp+mclXkoBXKEzXoPlAaccYHiLsivt2tBDESovKanuzRFeNPBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail32-18.delta" sparkle:deltaFrom="18" length="3616026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ch9YmGEBkDJTK58z2EzABtaCOKNikh36xW21qZnMT8B2o2VRNRMDCHZ1Bzs/6fnZo9m0FacI2zH7F1dlsKSGCg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail32-17.delta" sparkle:deltaFrom="17" length="3707190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5RF5yQviGR6P4Tmel+fjinWWDWJf9kZfq60k1PzhHhVqtSqQuwZ6DaxCQqAlq6ldL48afF/FOYSxHHYHpJweBg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail32-16.delta" sparkle:deltaFrom="16" length="3774930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ur5/ifGxUkXWuf7ZEh4g9SD4Sr4hWQjchAC2tz+X6qU5xURy3+5m9AnBJ7QnSB6PmMd0nkxQqxj8dKv3EKfDDA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail32-15.delta" sparkle:deltaFrom="15" length="3713534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JJS9YBeOHDh0uUp9ctkh/fivzjplZPhuOmRy7gmpCue3ctm3QBXRWahjYamROg7GtJjGh9vlxneZUPXxxkHOCw=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail32-9.delta" sparkle:deltaFrom="9" length="3719178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+vY+uiSWuZGts1Zg80YDdohfcbcRcboNdKbBy3KSsvCMkSCothe5UEMpKopSle+tJZ75Y+246/E4PXN+KFqRDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.2</title>
@@ -54,13 +40,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.1...macos-v1.0.2
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.2.zip" length="9824509" type="application/octet-stream" sparkle:edSignature="msYVlZ5EJrCq4FTIk9SjmN37wScr1a5qQ7OKrrlRDmthvVePYWF4mNnhIN/OOLvHXhbShgBdn4ycK7JuFAUoCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail18-17.delta" sparkle:deltaFrom="17" length="1060594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iDoxM5ii8hzi3sO9nK5r1FjUHAfLdHVionGbpdzYZYMaILq3M7FX+a9d1Dh8EAQzs6WVOIx8saq3v+dhtXCXDg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail18-16.delta" sparkle:deltaFrom="16" length="1331414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jT3LUtvuvMjLQaw+Z5wXW/+Jx9Ox8BMUzxCgcby6ntYLxUicbHG9zJBsY80Xe7uVk8Qj+eV65MSeGm7d8wwRCA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail18-15.delta" sparkle:deltaFrom="15" length="2915866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sOKmXvmiYv7ENbFyOIh0Hcc9MHv93ZzLjbxpw1bmLhaQMTl9Ogd5QL2W9ve4VRxjX4Pqnsu7oN9d3Ivfr6WKBA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail18-9.delta" sparkle:deltaFrom="9" length="2922558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I+x5hiCZJJWlO4bGUtVo3v0gA+SaNV5xTXOHWejsUUYU0yRLN5q/xOekuBw7d/6KbeMY7QHBd0/AfUFz/MVTDQ=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail18-7.delta" sparkle:deltaFrom="7" length="6110582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JGOhZ+KTy8LfjWG+rRMLfnNqPgWFUMSqdLEpQKDEYNilw7ETwDbT4daXfxR6yV2Ay9bF7UVdwUQvz/9b9JZBDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.1</title>
@@ -73,12 +52,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.0...macos-v1.0.1
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.1.zip" length="9646130" type="application/octet-stream" sparkle:edSignature="9CpdwFjgH+DENPQqN144Wywkc7G5LAFTzDxV9AM00jv+8Tx//CrkTeVhLLrUrVK3PCkm5U63sq/bQf3fUi7dAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail17-16.delta" sparkle:deltaFrom="16" length="953114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0UHTgv5s0aVszmOVLz/95L/0wfMAtBXDP6shs3vcOAah0Bm49AS8PWD/QboeMOJkcFQeH38ALgVu7gqaeVjGCA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail17-15.delta" sparkle:deltaFrom="15" length="2802554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SW0e7qm8jXpD0t4zd9ZiJMf1+6HFIiu2ZWGJf+//Rntis/JWkKvFTBGWB+p1RYmRZzC29RixjPiL3RjeT7ZMAQ=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail17-9.delta" sparkle:deltaFrom="9" length="2808398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ttnl+jABCRjFzM4mhKrWmGe5/SNfsWe4mgwlyh2GHcID/uo+mL4PC6zb6f2wh+ZfSWYQY6QIFINrJikCYBCnCg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail17-7.delta" sparkle:deltaFrom="7" length="5997330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GrpyNohEea1+Dej/WJEYtLj+iiWpxDPGzSYQMpaqfXt+gbh+WUNaq50rpQXCrCOMRUJx3w7Cq9g0UFGo7WW4CQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0</title>
@@ -91,11 +64,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.10...macos-v1.0.0
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.0.zip" length="9582405" type="application/octet-stream" sparkle:edSignature="JtNtM07uH70UaQNGyKzReTxWKyRQUIPuTKp4MCzdR7ancV0Zk3c2j4PyPTwf0rtOdmdaFPJ0kWbxavjIHY96Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail16-15.delta" sparkle:deltaFrom="15" length="2755050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eGuyPcW0o8+HLkaKRjJYRQf2GzxnrZbu9CjrIuM9kWv5Mk6hKp7q/aJePrZeyeqgO6UVF5Zp4zBrsCkWIFIiCQ=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail16-9.delta" sparkle:deltaFrom="9" length="2759286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k0Cvap+Xv02GZHOkBKODH1te8uw/c6b+Qbkt72ESO7TrpGlojPTMLRafKeFvpZUFZODAJhnrkJNpWu0ab1y4Cw=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail16-7.delta" sparkle:deltaFrom="7" length="5944886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DEnnrBY4lAUdZXfIoZquz4cZcON0KY0sVWgUsSCXyAz4ekEgPSr/9yU84YZb2ny+LH9R2oeO1kl2iEPGJkXIAg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.10</title>
@@ -108,10 +76,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.9...macos-v0.1.10
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.10.zip" length="9380721" type="application/octet-stream" sparkle:edSignature="J1IZDrP25OcxQudWWnNvsid/KCi4hGkGeNq3REGwLk9MPS2zLvY66vRmv2BOjpXtjtRVI3J2/4pPZxIcnucDAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac15-9.delta" sparkle:deltaFrom="9" length="878074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xWqKSgnvbVma5zS+TgEgXrLweko4i6a1DZMFzBCvPhRfraJzH+mm4gwCWuUCogjZ4gfqHS0RPT2jZdRM5cgQAg=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac15-7.delta" sparkle:deltaFrom="7" length="5582862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Nh6kEAMK6qKTr+2z4yHGPIN2MNA2upIYV7bMMGEeCpQs5zsMm7Hw2Y4HWB1oeMkBYhb/fomAYbBwP0Bd1wqwBQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
