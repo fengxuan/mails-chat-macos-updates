@@ -6,6 +6,25 @@
         <description>Public Sparkle feed for MailsChat macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.17</title>
+            <pubDate>Tue, 07 Jul 2026 11:58:14 +0000</pubDate>
+            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.12...macos-v1.0.17
+]]></description>
+            <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.17.zip" length="10991390" type="application/octet-stream" sparkle:edSignature="NiACujPS24Ryk0vg6ztEuLZD8rdj5D9sa+bORck7wRtwcqmFyGTQ15ctxgQgBvLW/luxOx8lx6iOqIE1nn6IAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-32.delta" sparkle:deltaFrom="32" length="802758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2rV3tOb8pHNgcPiwPh4+cVZGXfykSZiR9RMVX57cbCrqzpuYAFVhhOS4+wWuPU3ylgr4MdtSVNQWr6hiHFOIDQ=="/>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-18.delta" sparkle:deltaFrom="18" length="3706510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="20KbXE8aPMcAT5eeLCuvbwmIi5TIm4xnzgkfxoE6NScx/pGHW7XNvbCocmrRwYD7v+eMsixKTIMJR0jyScMyCg=="/>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-17.delta" sparkle:deltaFrom="17" length="3790410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jj7ySRVOadmcTHAZO1jFOBFgFN32aIMegaHlUvXOIuUOmjdmns7PkLUBMDL304j2Lb7gBevG1GDozahTcd37Bg=="/>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-16.delta" sparkle:deltaFrom="16" length="3864082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+pdVP2ISNPLCnmaWq7kicgEgY6xO8d59cmShElnZVPhJWfsnMFTdTuHC2OsRm9fHUQpqmZt1MILN1jwKPFwXDA=="/>
+                <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail43-15.delta" sparkle:deltaFrom="15" length="3778802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9ZePdvXj+UyiUzgigtBZWwEb72Qn5sMVrdka+qQbYmgTSNp6gxLKJa2cJpsoSu1HA9ZMFjD5TXy+0lEEfD4tCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Tue, 30 Jun 2026 14:08:37 +0000</pubDate>
             <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
@@ -92,22 +111,6 @@
             <sparkle:deltas>
                 <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac15-9.delta" sparkle:deltaFrom="9" length="878074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xWqKSgnvbVma5zS+TgEgXrLweko4i6a1DZMFzBCvPhRfraJzH+mm4gwCWuUCogjZ4gfqHS0RPT2jZdRM5cgQAg=="/>
                 <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac15-7.delta" sparkle:deltaFrom="7" length="5582862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Nh6kEAMK6qKTr+2z4yHGPIN2MNA2upIYV7bMMGEeCpQs5zsMm7Hw2Y4HWB1oeMkBYhb/fomAYbBwP0Bd1wqwBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.10</title>
-            <pubDate>Fri, 19 Jun 2026 00:52:13 +0000</pubDate>
-            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.9...macos-v0.1.10
-]]></description>
-            <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.10.zip" length="9380233" type="application/octet-stream" sparkle:edSignature="iC4Vy3KcL/rtc7lJrxObefwBnXCBlEM8dFA4M7dxxzVq2QDyqxn3JxI6KGXViDb55f9vgOcg7AGjHnP9npRRCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac14-9.delta" sparkle:deltaFrom="9" length="877442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hmy8rncgN3tDef4qWecRxw23UCjOlsHSioCYT35lEsp8yb5LoIZytEqR2Rq1mgH8OzNGFiJAwrVT4qEuT1X+AA=="/>
-                <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac14-7.delta" sparkle:deltaFrom="7" length="5588110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i3b3Z7Xdj/npuqD0ZeZpkffOXDpw7bfhUBZe5fpHsAl2ToffRKsRWGhzWr52uGMEIwV9vdavqIz9m9e9fXaPDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
