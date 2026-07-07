@@ -6,6 +6,18 @@
         <description>Public Sparkle feed for MailsChat macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.18</title>
+            <pubDate>Tue, 07 Jul 2026 13:52:22 +0000</pubDate>
+            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v1.0.17...macos-v1.0.18
+]]></description>
+            <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.18.zip" length="10991360" type="application/octet-stream" sparkle:edSignature="12beRjCbpt0lbEmGECT9h2EibJuaaE0IucCF/JW98Xvl0HKdFzJRQe+BS9WiTMOC7oDyR/ApGi4e8ttqunUCDQ=="/>
+        </item>
+        <item>
             <title>1.0.17</title>
             <pubDate>Tue, 07 Jul 2026 11:58:14 +0000</pubDate>
             <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
@@ -64,18 +76,6 @@
             <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.10...macos-v1.0.0
 ]]></description>
             <enclosure url="https://downloads.canyin.uk/mailschat/mac/YeMail-1.0.0.zip" length="9582405" type="application/octet-stream" sparkle:edSignature="JtNtM07uH70UaQNGyKzReTxWKyRQUIPuTKp4MCzdR7ancV0Zk3c2j4PyPTwf0rtOdmdaFPJ0kWbxavjIHY96Bg=="/>
-        </item>
-        <item>
-            <title>0.1.10</title>
-            <pubDate>Fri, 19 Jun 2026 01:15:05 +0000</pubDate>
-            <link>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/fengxuan/mails-chat-macos-updates/tree/main/mailschat/mac</sparkle:fullReleaseNotesLink>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/fengxuan/mails-chat-ios/compare/macos-v0.1.9...macos-v0.1.10
-]]></description>
-            <enclosure url="https://downloads.canyin.uk/mailschat/mac/MailsChatMac-0.1.10.zip" length="9380721" type="application/octet-stream" sparkle:edSignature="J1IZDrP25OcxQudWWnNvsid/KCi4hGkGeNq3REGwLk9MPS2zLvY66vRmv2BOjpXtjtRVI3J2/4pPZxIcnucDAQ=="/>
         </item>
     </channel>
 </rss>
